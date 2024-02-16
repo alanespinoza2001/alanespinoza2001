@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alan Espinoza 💻🌟
 
-![Alan](https://camo.githubusercontent.com/e1df1a32765f66fad08db13beddf307bb3387361f4b3b91eb683ddfec1b26922/68747470733a2f2f756e6976657273696461647669727475616c636e63692e6d782f77702d636f6e74656e742f75706c6f6164732f323032322f31322f37373834352e676966)
+![Alan](https://media.licdn.com/dms/image/D4E16AQG4N4l0NkYuYw/profile-displaybackgroundimage-shrink_350_1400/0/1707322765952?e=1713398400&v=beta&t=GiiIuFCrOhyyjpfnib-nuljuvbSjkz9LTddTYYCIR6M)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
 
