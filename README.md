@@ -14,7 +14,7 @@ Soy un desarrollador con un gran amor por la programación y la creatividad. Mi 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Java)
- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Java)
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Python)
 
 
   
