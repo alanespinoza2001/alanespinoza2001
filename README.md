@@ -16,9 +16,9 @@ Soy un desarrollador con un gran amor por la programación y la creatividad. Mi 
 
 ## Habilidades
 
-- **Lenguajes de Programación:** JavaScript, HTML, CSS
-- **Frameworks y Bibliotecas:** React.js, Vue.js, Bootstrap
-- **Herramientas de Desarrollo:** Git, Webpack, Babel
+- **Lenguajes de Programación:** JavaScript, HTML, CSS , Java , Python
+- **Frameworks y Bibliotecas:**
+- **Herramientas de Desarrollo:** 
 - **Diseño Web:** Responsive Design, CSS Grid, Flexbox
 
 ## Proyectos Destacados
