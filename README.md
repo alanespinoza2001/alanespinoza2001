@@ -9,14 +9,8 @@
 Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
 #### Tecnologias:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Java)
- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Python)
- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg"/>](https://www.linkedin.com/help/linkedin/answer/a551392/-que-es-linkedin-y-como-puedo-usarlo-?lang=es-ES)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.freepik.com/vector-premium/logotipo-rojo-youtube-logotipo-redes-sociales_197792-1803.jpg"/>](https://www.youtube.com/@alanelprogramador1729)
- 
+ ![foto1](https://camo.githubusercontent.com/d75fb6e4658acbb4b5741a6c1f41f5cae3b4010235bc85cabc3cbb92f7890c8d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966)
+
  
 ## Mis videos
 
