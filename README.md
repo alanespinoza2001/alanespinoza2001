@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
+Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
 #### Tecnologias:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
