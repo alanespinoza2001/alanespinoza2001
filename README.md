@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alan Espinoza 💻🌟
 
-![Alan](https://media.giphy.com/media/3ornjSLwaPkcANroP6/giphy.gif)
+![Alan](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
 
