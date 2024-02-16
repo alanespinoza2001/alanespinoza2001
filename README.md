@@ -51,3 +51,25 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y compartiendo ideas. 😊✨
 
+<div class="redes-sociales">
+    <h2>Sígueme en las redes sociales</h2>
+    <div class="red-social">
+        <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+            <img src="linkedin.png" alt="LinkedIn">
+            <span>LinkedIn</span>
+        </a>
+    </div>
+    <div class="red-social">
+        <a href="https://twitter.com/tuusuario" target="_blank">
+            <img src="twitter.png" alt="Twitter">
+            <span>Twitter</span>
+        </a>
+    </div>
+    <div class="red-social">
+        <a href="https://github.com/tuusuario" target="_blank">
+            <img src="github.png" alt="GitHub">
+            <span>GitHub</span>
+        </a>
+    </div>
+</div>
+
