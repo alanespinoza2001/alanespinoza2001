@@ -39,6 +39,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 - **Sql y MySql**
 - **MongoDB**
+- **React Js**
 
 ## Contacto
 
