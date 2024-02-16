@@ -6,7 +6,7 @@
 
 ## ¿No sabes quién soy? , acá me presento 🤝
 
-Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
+Soy un Desarrollador Junior con un gran amor por la programación y la creatividad, enfocado principalmente en el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo informatico y desarrollo web.Por otro lado tengo un canal de YouTube donde te enseño a programar llamado "Alan el Programador" que te lo enseñare más a abajo.
 
 ## Habilidades
 
