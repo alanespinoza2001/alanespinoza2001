@@ -13,7 +13,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 - **Lenguajes de Programación:** JavaScript, HTML, CSS , Java , Python
 - **Frameworks y Bibliotecas:**
 - **Herramientas de Desarrollo:** 
-- **Diseño Web:** Responsive Design, CSS Grid, Flexbox
+- **Diseño Web:** CSS Grid
 
 ## IDES (Entornos en los que trabajo)
 - **Visual Studio Code**
