@@ -18,6 +18,11 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.freepik.com/vector-premium/logotipo-rojo-youtube-logotipo-redes-sociales_197792-1803.jpg"/>](https://www.youtube.com/@alanelprogramador1729)
  
  
+## Mis videos
+
+[![Ciclo For en Java](https://www.youtube.com/watch?v=UakXG0YKrgs&t=150s)
+
+
 
 
 ## Habilidades
