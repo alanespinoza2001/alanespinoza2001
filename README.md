@@ -25,6 +25,11 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ¡Siéntete libre de echar un vistazo y dejar tus comentarios!
 
+## Aprendiendo......
+
+- **Sql y MySql
+- ** MongoDB
+
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
