@@ -18,6 +18,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 ## IDES (Entornos en los que trabajo)
 - **Visual Studio Code**
 - **NetBeans**
+- **Google Collab**
 
 
 ## Proyectos Destacados
