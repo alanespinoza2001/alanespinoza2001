@@ -1,5 +1,12 @@
-                                                                                ### Hola soy Alan 👋
 
+
+### Hola soy Alan 👋
+
+
+
+💻Programador
+⚽Futbolista 
+💈 Barbero 
 
 
 ![Texto alternativo](https://www.canva.com/design/DAF8H_Au7-o/3uQwrDhZy_gz4Ov1ZRw16Q/edit?utm_content=DAF8H_Au7-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
