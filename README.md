@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alan Espinoza 💻🌟
 
-     ![Alan](https://universidadvirtualcnci.mx/wp-content/uploads/2022/12/77845.gif)
+![Alan](https://universidadvirtualcnci.mx/wp-content/uploads/2022/12/77845.gif)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
 
