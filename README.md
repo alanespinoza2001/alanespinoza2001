@@ -30,7 +30,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ¡Siéntete libre de echar un vistazo y dejar tus comentarios!
 
-## Aprendiendo......
+## 📔Aprendiendo......📔
 
 - **Sql y MySql**
 - **MongoDB**
