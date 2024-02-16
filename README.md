@@ -9,7 +9,7 @@
 Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
 
- ![foto1](https://camo.githubusercontent.com/d75fb6e4658acbb4b5741a6c1f41f5cae3b4010235bc85cabc3cbb92f7890c8d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966)
+ ![foto1](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
 
  
 ## Mis videos
