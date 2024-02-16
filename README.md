@@ -14,14 +14,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
  
 ## Mis videos
 
-<table align="center">
-<tr><td align="top" width="33%">
 
-<div align="center">  
- ## **Tecnologias:**
-</div>
-
-</td><td valign="top" width="33%">
 
 
 
