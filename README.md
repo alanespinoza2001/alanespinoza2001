@@ -28,7 +28,7 @@
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo a través de [LinkedIn](https://www.linkedin.com/in/alan-espinoza11/) o [Twitter](https://twitter.com/tuusuario)!
 
 ## Mi canal de YouTube
-<imgsrc="![image](https://github.com/alanespinoza2001/alanespinoza2001/assets/111473589/9ff441c1-0935-4373-b199-e3ba52227bae)"alt="Alan"width="200" height="200">
+<imgsrc="![image](https://github.com/alanespinoza2001/alanespinoza2001/assets/111473589/9ff441c1-0935-4373-b199-e3ba52227bae)"alt="Alan"width="300px" height="300px">
 
 
 
