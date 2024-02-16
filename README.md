@@ -15,7 +15,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 - **Herramientas de Desarrollo:** 
 - **Diseño Web:** Responsive Design, CSS Grid, Flexbox
 
-## IDES
+## IDES (Entornos en los que trabajo)
 - **Visual Studio Code**
 - **NetBeans**
 
