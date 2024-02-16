@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
 
-## Sobre mí
+## ¿No sabes quién soy? , acá me presento 🤝
 
 Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
