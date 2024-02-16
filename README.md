@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo frontend, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS, React.js y Vue.js. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
+Soy un Desarrollador Junior con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
 #### Tecnologias:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -16,8 +16,6 @@ Soy un desarrollador con un gran amor por la programación y la creatividad. Mi 
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Java)
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Python)
 
-
-  
 
 
 ## Habilidades
