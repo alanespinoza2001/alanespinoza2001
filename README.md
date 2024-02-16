@@ -20,8 +20,8 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
  
 ## Mis videos
 
-[![Introducción a React.js](https://www.youtube.com/watch?v=UakXG0YKrgs&t=150s.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-https://www.youtube.com/watch?v=UakXG0YKrgs&t=150s
+[![Introducción a React.js](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=UakXG0YKrgs&t=150s)
+- [Ver video](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 
