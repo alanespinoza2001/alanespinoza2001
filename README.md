@@ -2,7 +2,7 @@
 
 
 
-![Texto alternativo](https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2021/04/Programador.jpg)
+![Texto alternativo](https://www.canva.com/design/DAF8H_Au7-o/3uQwrDhZy_gz4Ov1ZRw16Q/edit?utm_content=DAF8H_Au7-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
