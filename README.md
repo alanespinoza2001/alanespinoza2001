@@ -15,6 +15,8 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Java)
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/Python)
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg"/>](https://www.linkedin.com/help/linkedin/answer/a551392/-que-es-linkedin-y-como-puedo-usarlo-?lang=es-ES)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.freepik.com/vector-premium/logotipo-rojo-youtube-logotipo-redes-sociales_197792-1803.jpg"/>](https://www.youtube.com/@alanelprogramador1729)
+ 
  
 
 
