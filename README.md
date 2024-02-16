@@ -17,10 +17,8 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 <table align="center">
 <tr><td align="top" width="33%">
 
-<h3 align="center">Frontend </h3>
 <div align="center">  
- #### Tecnologias:
-
+ ## **Tecnologias:**
 </div>
 
 </td><td valign="top" width="33%">
