@@ -37,8 +37,8 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ## Aprendiendo......
 
-**Sql y MySql
-**MongoDB
+- **Sql y MySql
+- **MongoDB
 
 ## Contacto
 
