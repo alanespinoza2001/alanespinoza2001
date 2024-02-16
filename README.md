@@ -8,6 +8,12 @@
 
 Soy un desarrollador con un gran amor por la programación y la creatividad. Mi enfoque principal es el desarrollo frontend, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS, React.js y Vue.js. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo del desarrollo web.
 
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 ## Habilidades
 
 - **Lenguajes de Programación:** JavaScript, HTML, CSS
