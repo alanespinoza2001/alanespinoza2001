@@ -8,6 +8,11 @@
 
 Soy un Desarrollador Junior con un gran amor por la programación y la creatividad, enfocado principalmente en el desarrollo FRONT END, donde disfruto trabajando con tecnologías como JavaScript, HTML, CSS en el entorno de desarrollo Visual Studio Code. Siempre estoy buscando aprender algo nuevo y enfrentar desafíos interesantes en el mundo informatico y desarrollo web.Por otro lado tengo un canal de YouTube donde te enseño a programar llamado "Alan el Programador" que te lo enseñare más abajo.
 
+
+## Para conocerme más descarga mi Curriculum (cv)
+
+
+
 ## Habilidades
 
 - **Lenguajes de Programación:** JavaScript, HTML, CSS , Java , Python
