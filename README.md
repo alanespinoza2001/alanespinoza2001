@@ -11,6 +11,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 ## Para conocerme más descarga mi Curriculum (cv)
 
+![cv](file:///C:/Users/user/Downloads/Curriculum%20Alan%20Nicolas%2020-24.pdf)
 
 
 ## Habilidades
