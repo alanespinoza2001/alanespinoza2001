@@ -44,5 +44,10 @@ Alumno Practicante en Ciencia de datos en el Nucleo de Data Science de la Univer
 - [LinkedIn]()
 - [Twitter](https://twitter.com/alanespinoza)
 
+  ## Para finalizar te invito a mi canal de programación
+
+  
+
+
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y compartiendo ideas. 😊✨
 
