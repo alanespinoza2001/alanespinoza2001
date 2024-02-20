@@ -25,7 +25,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [Ciencia de Datos](https://github.com/alan/proyecto-1): Breve descripción del proyecto.
+- [Ciencia de Datos en Nucleo de Investigaciones de Data Science de Universidad de las Americas](https://nids.cl/): Breve descripción del proyecto.
 
 
 - [Proyecto 2](https://github.com/alan/proyecto-2): Breve descripción del proyecto.
