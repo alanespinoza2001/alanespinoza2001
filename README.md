@@ -42,7 +42,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/alanespinoza)
+- [LinkedIn]()
 - [Twitter](https://twitter.com/alanespinoza)
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y compartiendo ideas. 😊✨
