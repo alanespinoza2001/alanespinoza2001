@@ -11,7 +11,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 ## Para conocerme más descarga mi Curriculum (cv) 
 
-![cv](https://drive.google.com/file/d/1K1QUtpoi6sm9gKz3DnpzGtVtSIUYA8zg/view?usp=drive_link)
+![Alan](https://drive.google.com/file/d/1K1QUtpoi6sm9gKz3DnpzGtVtSIUYA8zg/view?usp=drive_link)
 
 
 ## Habilidades
