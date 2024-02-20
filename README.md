@@ -27,7 +27,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 ## **Proyectos Destacados*
 Alumno Practicante en Ciencia de datos en el Nucleo de Data Science de la Universidad de las Americas (@Núcleo de Investigación en Data Science) Obteniendo datos curados de moléculas moduladoras de los receptores TRPV para ser utilizados posteriormente en un modelo de aprendizaje automático (Machine Learning).
-[Pagina nids](https://nids.cl/):
+[Visita a Nids para conocerlos más!](https://nids.cl/):
 
 - [Proyecto 2](https://github.com/alan/proyecto-2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/alan/proyecto-3): Breve descripción del proyecto.
