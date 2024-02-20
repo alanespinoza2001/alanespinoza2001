@@ -25,7 +25,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-## **Proyectos Destacados*
+## *Alumno en Practica en el Ambiente de Sciencia de Datos*
 Alumno Practicante en Ciencia de datos en el Nucleo de Data Science de la Universidad de las Americas (@Núcleo de Investigación en Data Science) Obteniendo datos curados de moléculas moduladoras de los receptores TRPV para ser utilizados posteriormente en un modelo de aprendizaje automático (Machine Learning).
 [Visita a Nids para conocerlos más!](https://nids.cl/)
 
