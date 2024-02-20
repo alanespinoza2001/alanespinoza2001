@@ -13,7 +13,7 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 - **Lenguajes de Programación:** JavaScript, HTML, CSS , Java , Python
 - **Frameworks y Bibliotecas:**
 - **Herramientas de Desarrollo:** 
-- **Diseño Web:** CSS Grid
+- **Diseño Web:** 
 
 ## IDES (Entornos en los que trabajo)
 - **Visual Studio Code**
@@ -25,13 +25,13 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [Pagina nids](https://nids.cl/):
+## **Proyectos Destacados*
 Alumno Practicante en Ciencia de datos en el Nucleo de Data Science de la Universidad de las Americas (@Núcleo de Investigación en Data Science) Obteniendo datos curados de moléculas moduladoras de los receptores TRPV para ser utilizados posteriormente en un modelo de aprendizaje automático (Machine Learning).
+[Pagina nids](https://nids.cl/):
 
 - [Proyecto 2](https://github.com/alan/proyecto-2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/alan/proyecto-3): Breve descripción del proyecto.
 
-¡Siéntete libre de echar un vistazo y dejar tus comentarios!
 
 ## 📔Aprendiendo......📔
 
