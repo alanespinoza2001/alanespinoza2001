@@ -25,7 +25,9 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [Proyecto 1](https://github.com/alan/proyecto-1): Breve descripción del proyecto.
+- [Ciencia de Datos](https://github.com/alan/proyecto-1): Breve descripción del proyecto.
+
+
 - [Proyecto 2](https://github.com/alan/proyecto-2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/alan/proyecto-3): Breve descripción del proyecto.
 
