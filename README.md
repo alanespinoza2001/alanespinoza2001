@@ -25,9 +25,9 @@ Soy un Desarrollador Junior con un gran amor por la programación y la creativid
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [Ciencia de Datos en Nucleo de Investigaciones de Data Science de Universidad de las Americas](https://nids.cl/):
-  Breve descripción del proyecto.
-
+- [Pagina nids](https://nids.cl/):
+Alumno Practicante en Ciencai de datos en el Nucleo de Data Science de la Universidad de las Americas Obteniendo datos curados de moléculas moduladoras de los
+receptores TRPV para ser utilizados posteriormente en un modelo de aprendizaje automático (Machine Learning)
 
 - [Proyecto 2](https://github.com/alan/proyecto-2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/alan/proyecto-3): Breve descripción del proyecto.
