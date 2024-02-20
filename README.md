@@ -46,7 +46,8 @@ Alumno Practicante en Ciencia de datos en el Nucleo de Data Science de la Univer
 
 ##Para finalizar te invito a mi canal de programación
 
-![Mi canal](![Alan](https://media.licdn.com/dms/image/D4E16AQG4N4l0NkYuYw/profile-displaybackgroundimage-shrink_350_1400/0/1707322765952?e=1713398400&v=beta&t=GiiIuFCrOhyyjpfnib-nuljuvbSjkz9LTddTYYCIR6M)
+
+![Mi canal](https://www.youtube.com/@alanelprogramador1729)
 
 
   
