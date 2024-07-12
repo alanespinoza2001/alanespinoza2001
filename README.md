@@ -2,7 +2,7 @@
 
 ![Alan](https://media.licdn.com/dms/image/D4E16AQG4N4l0NkYuYw/profile-displaybackgroundimage-shrink_350_1400/0/1707322765952?e=1713398400&v=beta&t=GiiIuFCrOhyyjpfnib-nuljuvbSjkz9LTddTYYCIR6M)
 
-¡Me alegra y les hago la bienvenida a mi perfil de GitHub! Soy un entusiasta desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
+¡Me alegra y les hago la bienvenida a mi perfil de GitHub! Soy un desarrollador frontend apasionado por la creación de experiencias web asombrosas. 🚀
 
 ## ¿No sabes quién soy? , acá me presento 🤝
 
